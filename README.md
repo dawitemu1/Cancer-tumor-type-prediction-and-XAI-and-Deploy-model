@@ -4,13 +4,13 @@ Welcome to Cancer tumor type prediction Tool!
 
 What You Can Do:
 
-Know the cancer pacients' Tumor and make next clinical decision .
+* Know the cancer pacients' Tumor and make next clinical decision .
 
-Pacients know the type of tumor for given cancer, before reciving any medical treatment
+* Pacients know the type of tumor for given cancer, before reciving any medical treatment
 
-It Give clear information about type of tumor for pythicans
+* It Give clear information about type of tumor for pythicans
 
-Based on the type of tumor pythicans make accoedingly the decision which is data driven decision
+* Based on the type of tumor pythicans make accoedingly the decision which is data driven decision
 
 Dive into the rich data of Tikur Anebassa hospital from 2020 to 2024, interact, and uncover valuable insights for decision making
 
