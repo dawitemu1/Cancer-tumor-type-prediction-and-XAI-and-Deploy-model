@@ -1,4 +1,4 @@
-Predicting Cancer Tumor Type
+## Predicting Cancer Tumor Type
 
 Welcome to Cancer tumor type prediction Tool!
 
@@ -16,11 +16,13 @@ Dive into the rich data of Tikur Anebassa hospital from 2020 to 2024, interact, 
 
 We Insatll All required Library such as, Dash, Streamlit, Gradio for front and back end developemnt 
 
-= Save Best perfomed model, CatBoost
+## Save The following
 
-= Save Label encoder for Catagorical features 
+* Save Best perfomed model, CatBoost
 
-= MinMax scaler for Numerical feature 
+* Save Label encoder for Catagorical features 
+
+* MinMax scaler for Numerical feature 
 
 ## Demo
 
