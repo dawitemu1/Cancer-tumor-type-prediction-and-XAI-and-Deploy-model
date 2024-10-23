@@ -22,9 +22,6 @@ We Insatll All required Library such as, Dash, Streamlit, Gradio for front and b
 = MinMax scaler for Numerical feature 
 
 
+https://github.com/user-attachments/assets/2be54d6a-1bc1-40fb-b40c-daed67877869
 
 
-<video width="600" autoplay muted loop>
-  <source src="https://www.youtube.com/watch?v=kWOcEPvKjk0" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
