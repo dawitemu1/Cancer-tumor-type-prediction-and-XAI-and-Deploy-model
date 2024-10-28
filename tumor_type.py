@@ -72,13 +72,13 @@ def horizontal_line(height=1, color="blue", margin="0.5em 0"):
 # minmax_scalers = pickle.load(open(scalers_path, "rb"))
 
 # Load the CatBoost model
-loaded_model = joblib.load('catboost_model.pkl')
+loaded_model = joblib.load('catboost_model2.pkl')
 
 # Load the label encoders
-label_encoders = joblib.load('label_encoders.pkl')
+label_encoders = joblib.load('label_encoders2.pkl')
 
 # Load the MinMax scaler parameters
-minmax_scalers = joblib.load('scaler_params.pkl')
+minmax_scalers = joblib.load('scaler_params2.pkl')
 
 # Reconstruct the MinMaxScaler
 from sklearn.preprocessing import MinMaxScaler
@@ -113,6 +113,7 @@ features = {
     'History value ': 'categorical',
     'Prescrption Type': 'categorical', 
     'Prescribed Item': 'categorical',
+    'Imagereport': 'categorical',
     'Stage': 'categorical',
     'Price': 'numerical',
     'Is Paid': 'numerical',
@@ -131,6 +132,7 @@ group_labels = {
     'Clinical Data': ['Diagnosis', 'Group diagonsis', 'Type diagnosis',
        'Status', 'Unit', 'Pacient Weight', 'BMI', 'Laboratory Service ', 'HistoryType', 'History value ',
        'Prescrption Type', 'Prescribed Item',  'Stage'],
+    'Imagereport Data': ['Imagereport'],
     'financial Data': ['Price', 'Is Paid', 'Is Available'],
 }
 
