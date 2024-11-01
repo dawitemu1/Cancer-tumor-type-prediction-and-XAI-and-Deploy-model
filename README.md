@@ -26,6 +26,6 @@ We Insatll All required Library such as, Dash, Streamlit, Gradio for front and b
 
 ## Demo
 
-https://github.com/user-attachments/assets/e1ba7af0-05dd-489c-b5ce-c41a6df2a948
+https://github.com/user-attachments/assets/b7ed2433-0d93-42b2-a6ce-863bf86df050
 
 
