@@ -1,13 +1,3 @@
-
-
-## 🚀 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/dawitemu1/Cancer-tumor-type-prediction-and-XAI-and-Deploy-model.git
-cd Cancer-tumor-type-prediction-and-XAI-and-Deploy-model
-
 ## Predicting Cancer Tumor Type
 
 Welcome to Cancer tumor type prediction Tool!
