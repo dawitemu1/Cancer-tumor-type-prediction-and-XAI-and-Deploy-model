@@ -28,4 +28,36 @@ We Insatll All required Library such as, Dash, Streamlit, Gradio for front and b
 
 https://github.com/user-attachments/assets/b7ed2433-0d93-42b2-a6ce-863bf86df050
 
+## Clone and Run
+
+To clone this repository, open a terminal and run:
+
+```bash
+git clone https://github.com/dawitemu1/Cancer-tumor-type-prediction-and-XAI-and-Deploy-model.git
+cd Cancer-tumor-type-prediction-and-XAI-and-Deploy-model
+```
+
+Install dependencies and run the Streamlit app:
+
+```bash
+python3 -m pip install --upgrade pip
+python3 -m pip install streamlit pandas numpy scikit-learn joblib
+streamlit run App_withImage.py
+```
+
+The repository includes these notebook files:
+
+- `LLM and mL model.ipynb`
+- `tumor_type.ipynb`
+
+You can also use the helper script:
+
+```bash
+./clone_and_run.sh
+```
+
+The app entry point is:
+
+- `App_withImage.py`
+
 
